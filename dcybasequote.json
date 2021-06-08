@@ -1,5 +1,5 @@
 {
-  "BASE/QUOTE": {
+  "DCY/USDT": {
     "price": 15,
     "up": 0.15, 
     "down": 0.1
